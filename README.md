@@ -2,7 +2,7 @@
 
 I'm a former product owner with an increasing passion for understanding exactly *how* to build brilliant applications, as well as the *why*.
 
-As a self starter fresh from college, I spent my early career moving up the ranks in marketing roles, before switching to eCommerce and the user-psychology-rich world of conversion funnel optimisation. When that didn't challenge me enough, I then moved into product. Working with some awesome engineers, testers and UXers, I've prototyped, developed, launched and managed digital products at the likes of Experian, M&S.com and Nando's.
+As a self starter fresh from college, I spent my early career moving up the ranks in marketing roles, before switching to ecommerce and the user-psychology-rich world of conversion funnel optimisation. When that didn't challenge me enough, I then moved into product. Working with some awesome engineers, testers and UXers, I've prototyped, developed, launched and managed digital products at the likes of Experian, M&S.com and Nando's.
 
 Roadmapping, building use cases, testing hypotheses and monitoring performance are things that now come naturally to me - *but* (and it's a big but) my brain is happiest when it's constantly challenged. Having always been fascinated by technology and its possibilities for learning, and after teaching myself some rudimentary HTML, CSS and Ruby and falling in love with code, I've enrolled in a selective developer bootcamp, Maker's Academy, to switch into software engineering proper.
 
@@ -12,13 +12,13 @@ After I graduate Maker's, I'll be looking for a role as a Junior Full Stack Deve
 
 #### Product and commercial experience
 
-Since 2013, I have led digital product teams at Experian and latterly, M&S.com. In the last 7 months (to help fund my Maker's studies), I've had my freelance hat on, providing product consultancy to Nando's. These experiences has furnished me a great understanding of effective development teams, presentation and influencing skills to all levels, and how to map and prioritise user stories into rewarding challenges to tackle.
+Since 2013, I have led digital product teams at Experian and latterly, M&S.com. In the last 7 months (to help fund my Maker's studies), I've had my freelance hat on, providing product consultancy to Nando's. These experiences has furnished me with a great understanding of how to build effective development teams, present and influence to all levels, and how to map and prioritise user stories into rewarding challenges to tackle using data and user feedback.
 
 My approach to problem solving is holistic - is this going to work technically? Is it the best solution for users? What's right for the business? As a strategic thinker, I also strive to ensure solutions enable the development of potential future features or fixes, and ensure the benefits of releases are communicated effectively to all stakeholders.
 
 #### Strong understanding of agile (what works in teams, and more importantly, what doesn't)
 
-I've developed products in a range of agile frameworks - SCRUM, XP, Kanban to name a few. I'm not prescribed to any particular methodology, but I strongly believe a team should choose the framework that most easily enables them collaborate, learn and ship working code. In my product life, I ensured my teams calibrated our approach on a regular basis to spend less time in meetings, more time understanding users and building awesome solutions to their problems. Removing barriers to this is something I always strive for.
+I've developed products in a range of agile frameworks - SCRUM, XP, Kanban to name a few. I'm not prescribed to any particular methodology, but I strongly believe a team should choose the framework that most easily enables them collaborate, learn and ship working code. In my product life, I ensured my teams calibrated our approach on a regular basis to spend less time in meetings, more time understanding users and building awesome solutions to their problems. Removing barriers to self- and team- learning is something I always strive for.
 
 #### A naturally curious, analytical mind
 
