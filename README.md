@@ -6,7 +6,7 @@ As a self starter fresh from college, I spent my early career moving up the rank
 
 Roadmapping, building use cases, testing hypotheses and monitoring performance are things that now come naturally to me - *but* (and it's a big but) my brain is happiest when it's constantly challenged. Having always been fascinated by technology and its possibilities for learning, and after teaching myself some rudimentary HTML, CSS and Ruby and falling in love with code, I've enrolled in a selective developer bootcamp, Maker's Academy, to switch into software engineering proper.
 
-After I graduate Maker's, I'll be looking for a role as a Junior Full Stack Developer. I'll be learning to craft clean, reusable code, with a special emphasis on TDD and pairing, so I'd like to work in an environment that echoes these values.
+After I graduate Maker's, I'll be looking for a role as a Junior Full Stack Developer. I'll be learning to craft clean, reusable code, with a special emphasis on TDD and pairing, so I'd like to work in an environment that echoes these values. In the meantime, you can view my GitHub contributions <a href="https://github.com/annalaise">here</a>
 
 ## Skills
 
@@ -46,14 +46,13 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-
 #### Other qualifications
 
-- Two Master's level professional qualifications in Marketing;
+- Two Masters equivalent (Level 7) professional qualifications in Marketing;
 1. Chartered Institute of Marketing (Post Gradate Diploma, 2009: Pass)
 2. Institute of Direct Marketing (Post Graduate Diploma in Direct and Interactive Marketing, 2007: Distinction)
 
-- First Aid at Work (valid 'til Mar '18) - you provide the hi-vis jacket, I provide treatments for papercuts right the way through to CPR.
+- First Aid at Work (valid 'til Mar '18) - you provide the hi-vis jacket, I provide treatments for papercuts right through to CPR.
 
 
 ## Experience
@@ -61,18 +60,18 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 **Nando's UK** (Nov '16 to Jun '17)
 *Product Consultant*   
 During my contract, I was tasked with optimising Nando's online takeaway journeys and overhauling their site UI. Specifically, this included:
-- Leading the redesign of the takeaway site to make it mobile responsive across all break points. As a result, takeaway orders increased by 8% like-for-like
-- Redesigned the site navigation to improve UX and compliance with accessibility standards
-- Oversaw a customer journey mapping project to explore all user pain points across the takeaway ordering UI
-- Tested online table booking using a third party API
-- Made recommendations for agile transformation of in-house and external digital capabilities
+- Leading the redesign of the takeaway site to make it mobile responsive across all break points. As a result, takeaway orders increased by 8% like-for-like.
+- Redesigned the site navigation to improve UX and compliance with accessibility standards.
+- Oversaw a customer journey mapping project to explore all user pain points across the takeaway ordering UI.
+- Tested online table booking using a third party API.
+- Made recommendations for agile transformation of in-house and external digital capabilities.
 
 **M&S.com** (Sep '15 to Oct '16)
 *Product Owner*  
-Product management of online styling and outfitting tools, reviews and product recommendations within M&S.com, and latterly (after Mar’16) led the development of the UK mobile site, optimising the browsing experiences for 33% of all M&S.com traffic. Highlights include:
-- Led the redesign of the sign up funnel for Your Style Adviser, an online styling tool, increasing user sign up by 441%
-- Successfully led a team of limited resource to build a new version of the tablet site, with a focus on performance and improved merchandise filtering; incremental ROI was projected at £6m p/a
-- Worked closely with the engineers to improve site speed and reliability. No code ever failed in production, and was voted 3rd most usable retailer mobile site in a cxpartners 2016 study
+Product management of online styling and outfitting tools, reviews and product recommendations within M&S.com, and latterly (after Mar’16) led the development of the UK mobile site, a Ruby Sinatra app, optimising the browsing experiences for 33% of all M&S.com traffic using TDD, multiple cloud environments and continuous delivery. Highlights include:
+- Led the redesign of the conversion funnel for Your Style Adviser, an online styling tool, increasing sign up by 441%
+- Successfully led a limited team to build a new version of the tablet site, with a focus on site performance and improved merchandise filtering compared to the incumbent solution; incremental ROI was projected at £6m p/a
+- Following our speed and UX improvements, the mobile site was awarded 3rd most usable retailer site in a cxpartners 2016 study.
 
 **Experian Consumer Services** (Aug '13 to Aug '15)
 *Head of Product Marketing*  
@@ -87,8 +86,8 @@ For full details of marketing and eCommerce roles held between Sept'09 and July 
 In play, as in work, I love to learn new things. I'm currently teaching myself how to knit, and wrapping my head around learning the piano and reading music, alongside learning code syntax.
 
 When not filling my brain with new things, I'll likely be found:
-- Planning my next scuba diving adventure; I grew up by the sea and I'm passionate about marine conservation
-- Getting out into the countryside for hiking, camping, or both of these things
-- Reading anything I can get my hands on, with special interests in psychology, history and fantasy genres
-- Playing exclusively medieval-focused RPGs on my Xbox 360 (yes, I'm a retro gamer)
-- Making banana and walnut cake, which is frequently requested by colleagues. One cannot deny the demands of the people.  
+- Planning my next scuba diving adventure; I grew up by the sea and I'm passionate about marine conservation.
+- Getting out into the countryside for hiking, camping, or both of these things.
+- Reading anything I can get my hands on, with special interests in psychology, history and fantasy genres.
+- Playing exclusively medieval-focused RPGs on Xbox 360 (still a newb, playing catch up on consoles)
+- Making banana and walnut cake, which is frequently requested by colleagues. One cannot deny the demands of the people, after all.
