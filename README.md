@@ -59,7 +59,7 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 ## Experience
 
 **Nando's UK** (Nov '16 to Jun '17)
-*Product Consultant*
+*Product Consultant*   
 During my contract, I was tasked with optimising Nando's online takeaway journeys and overhauling their site UI. Specifically, this included:
 - Leading the redesign of the takeaway site to make it mobile responsive across all break points. As a result, takeaway orders increased by 8% like-for-like
 - Redesigned the site navigation to improve UX and compliance with accessibility standards
