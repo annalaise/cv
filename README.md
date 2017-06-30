@@ -2,9 +2,9 @@
 
 I'm a former product owner with an increasing passion for understanding exactly *how* to build brilliant applications, as well as the *why*.
 
-As a self starter fresh from college, I spent my early career moving up the ranks in marketing roles, before switching to eCommerce and the user-psychology-rich world of conversion funnel optimisation. When that didn't challenge me enough, I then moved into product. Working with some awesome engineers, testers and UXers, I've prototyped, developed, launched and managed digital products at the likes of Experian, M&S.com and Nando's, via SCRUM, XP and Kanban, in rapid release cycles.
+As a self starter fresh from college, I spent my early career moving up the ranks in marketing roles, before switching to eCommerce and the user-psychology-rich world of conversion funnel optimisation. When that didn't challenge me enough, I then moved into product. Working with some awesome engineers, testers and UXers, I've prototyped, developed, launched and managed digital products at the likes of Experian, M&S.com and Nando's.
 
-Roadmapping, building use cases, testing hypotheses and monitoring performance are things that now come naturally to me - *but* (and it's a big but) my brain is happiest when it's constantly challenged. Having always been fascinated by technology and its possibilities for learning, I've enrolled in a selective developer bootcamp, Maker's Academy, to switch into software engineering proper.
+Roadmapping, building use cases, testing hypotheses and monitoring performance are things that now come naturally to me - *but* (and it's a big but) my brain is happiest when it's constantly challenged. Having always been fascinated by technology and its possibilities for learning, and after teaching myself some rudimentary HTML, CSS and Ruby and falling in love with code, I've enrolled in a selective developer bootcamp, Maker's Academy, to switch into software engineering proper.
 
 After I graduate Maker's, I'll be looking for a role as a Junior Full Stack Developer. I'll be learning to craft clean, reusable code, with a special emphasis on TDD and pairing, so I'd like to work in an environment that echoes these values.
 
@@ -50,8 +50,8 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 #### Other qualifications
 
 - Two Master's level professional qualifications in Marketing;
-1. Chartered Institute of Marketing (Post Gradate Diploma, 2009)
-2. Institute of Direct Marketing (Post Graduate Diploma in Direct and Interactive Marketing, 2007). Previous marketing experience comes in very handy when translating business needs from colleagues in commercial focused roles into technical requirements.
+1. Chartered Institute of Marketing (Post Gradate Diploma, 2009: Pass)
+2. Institute of Direct Marketing (Post Graduate Diploma in Direct and Interactive Marketing, 2007: Distinction)
 
 - First Aid at Work (valid 'til Mar '18) - you provide the hi-vis jacket, I provide treatments for papercuts right the way through to CPR.
 
@@ -64,8 +64,7 @@ During my contract, I was tasked with optimising Nando's online takeaway journey
 - Leading the redesign of the takeaway site to make it mobile responsive across all break points. As a result, takeaway orders increased by 8% like-for-like
 - Redesigned the site navigation to improve UX and compliance with accessibility standards
 - Oversaw a customer journey mapping project to explore all user pain points across the takeaway ordering UI
-- Built a roadmap of improvements to the menu area of the site
-- Tested online table booking third party tool integration
+- Tested online table booking using a third party API
 - Made recommendations for agile transformation of in-house and external digital capabilities
 
 **M&S.com** (Sep '15 to Oct '16)
