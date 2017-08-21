@@ -1,28 +1,30 @@
 ## Annalaise Gibbons
 
-I'm a former product owner with an increasing passion for understanding exactly *how* to build brilliant applications, as well as the *why*.
+I'm a former product owner with a passion for writing beautiful, clean code and creating awesome user experiences.
 
-As a self starter fresh from college, I spent my early career moving up the ranks in marketing roles, before switching to ecommerce and the user-psychology-rich world of conversion funnel optimisation. When that didn't challenge me enough, I then moved into product. Working with some awesome engineers, testers and UXers, I've prototyped, developed, launched and managed digital products at the likes of Experian, M&S.com and Nando's.
+I spent my early career in marketing roles, before switching to ecommerce and eventually product. I've prototyped, launched and managed digital products at the likes of Experian, M&S.com and Nando's. I'm now moving into software development so I can combine my need to building things, with the understanding of the impact they will have.
 
-Roadmapping, building use cases, testing hypotheses and monitoring performance are things that now come naturally to me - *but* (and it's a big but) my brain is happiest when it's constantly challenged. Having always been fascinated by technology and its possibilities for learning, and after teaching myself some rudimentary HTML, CSS and Ruby and falling in love with code, I've enrolled in a selective developer bootcamp, Maker's Academy, to switch into software engineering proper.
-
-After I graduate Maker's, I'll be looking for a role as a Junior Full Stack Developer. I'll be learning to craft clean, reusable code, with a special emphasis on TDD and pairing, so I'd like to work in an environment that echoes these values. In the meantime, you can view my GitHub contributions <a href="https://github.com/annalaise">here</a>
+After I graduate Maker's, I'd like to work in an environment that puts TDD at its core and stretches me to grow as a developer. Support for mentoring and pairing is key, as is a company with ethical values that wants to make grin-inducing experiences for users.
 
 ## Skills
 
-#### Product and commercial experience
+#### I know about product (and stakeholder management)
 
-Since 2013, I have led digital product teams at Experian and latterly, M&S.com. In the last 7 months (to help fund my Maker's studies), I've had my freelance hat on, providing product consultancy to Nando's. These experiences has furnished me with a great understanding of how to build effective development teams, present and influence to all levels, and how to map and prioritise user stories into rewarding challenges to tackle using data and user feedback.
+My product experience has furnished me with a great understanding of how to build effective development teams, present and influence to all levels, and map and prioritise user stories into rewarding problems to solve.
 
-My approach to problem solving is holistic - is this going to work technically? Is it the best solution for users? What's right for the business? As a strategic thinker, I also strive to ensure solutions enable the development of potential future features or fixes, and ensure the benefits of releases are communicated effectively to all stakeholders.
+My approach to this is holistic - is this going to work technically, now and in the future? Is it the best solution for users? What's right for the business?
 
-#### Strong understanding of agile (what works in teams, and more importantly, what doesn't)
+I'm able to translate complex technical concepts into explanations anyone can understand, and I get a kick out of encouraging people to explore the possibilities of technology.
 
-I've developed products in a range of agile frameworks - SCRUM, XP, Kanban to name a few. I'm not prescribed to any particular methodology, but I strongly believe a team should choose the framework that most easily enables them collaborate, learn and ship working code. In my product life, I ensured my teams calibrated our approach on a regular basis to spend less time in meetings, more time understanding users and building awesome solutions to their problems. Removing barriers to self- and team- learning is something I always strive for.
+#### I know about agile
 
-#### A naturally curious, analytical mind
+I've developed products in a range of frameworks - SCRUM, XP, Kanban to name a few. I strongly believe a team should choose the framework that most easily enables them collaborate, learn and ship working code.
 
-As an <a href="https://www.16personalities.com/intj-personality">INTJ</a> my approach to the world is always analytical. "Does this work? How could it be better?" is an independent process I apply to all things, at all times. It's the prepotent of an insatiable curiosity about new, as yet unthought of solutions, and an organised and efficient approach to testing them.
+I value spending less time in meetings, more time understanding users and building awesome solutions to their problems. Removing barriers to self and team learning is something I always strive for.
+
+#### I know about the beauty of data
+
+As an <a href="https://www.16personalities.com/intj-personality">INTJ</a> my approach to the world is always analytical. "Does this work? How could it be better?" is an independent process I apply to all things, at all times. It's the prepotent of an insatiable curiosity about new concepts, and an organised, logical approach to understanding them.
 
 I'm a data nerd at heart and from previous marketing and product roles, I've used the following tools to help prioritise stories and build understanding of users:  
 
@@ -33,7 +35,16 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 - Incident management tools including pagerduty   
 - Data interpretation tools including MS Excel and Google Sheets
 - App user feedback tools including appFigures and iOS / Google Store APIs
-- Integration of the all above into Slack, because bots are awesome!
+- Integration of the all above into Slack, because BOTS 🤖😍
+
+## Projects
+
+|Project | Link | Description | Technologies Used |
+|--------|--------|--------|--------|
+| Project Title | [View on Github](https://github.com/annalaise)| Description goes here | Technologies go here |
+| Project Title | [View on Github](https://github.com/annalaise)| Description goes here | Technologies go here |
+| Project Title | [View on Github](https://github.com/annalaise)| Description goes here | Technologies go here |
+
 
 ## Education
 
@@ -43,17 +54,16 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js,
 - Rspec, Jasmine, Mocha
 
 #### Other qualifications
 
 - Two Masters equivalent (Level 7) professional qualifications in Marketing;
-1. Chartered Institute of Marketing (Post Gradate Diploma, 2009: Pass)
-2. Institute of Direct Marketing (Post Graduate Diploma in Direct and Interactive Marketing, 2007: Distinction)
+1. Chartered Institute of Marketing (Post Gradate Diploma)
+2. Institute of Direct Marketing (Post Graduate Diploma in Direct and Interactive Marketing)
 
-- First Aid at Work (valid 'til Mar '18) - you provide the hi-vis jacket, I provide treatments for papercuts right through to CPR.
-
+- First Aid at Work (valid 'til Mar '18)
 
 ## Experience
 
@@ -68,26 +78,15 @@ During my contract, I was tasked with optimising Nando's online takeaway journey
 
 **M&S.com** (Sep '15 to Oct '16)
 *Product Owner*  
-Product management of online styling and outfitting tools, reviews and product recommendations within M&S.com, and latterly (after Mar’16) led the development of the UK mobile site, a Ruby Sinatra app, optimising the browsing experiences for 33% of all M&S.com traffic using TDD, multiple cloud environments and continuous delivery. Highlights include:
-- Led the redesign of the conversion funnel for Your Style Adviser, an online styling tool, increasing sign up by 441%
-- Successfully led a limited team to build a new version of the tablet site, with a focus on site performance and improved merchandise filtering compared to the incumbent solution; incremental ROI was projected at £6m p/a
-- Following our speed and UX improvements, the mobile site was awarded 3rd most usable retailer site in a cxpartners 2016 study.
+Product management of online styling and outfitting tools, reviews and product recommendations within M&S.com, and latterly (after Mar’16) led the development of the UK mobile site, a Ruby Rack app, optimising the browsing experiences for 33% of all M&S.com traffic using TDD, multiple cloud environments and continuous delivery.
 
-**Experian Consumer Services** (Aug '13 to Aug '15)
-*Head of Product Marketing*  
-Owned the product strategy and roadmap for the B2C portfolio: CreditExpert, a subscription product that allow members to monitor and improve their Experian Credit Score, CreditMatcher, an intelligent aggregator that matches users to products suited to their credit score, and VehicleCheck, a used car history search product. I managed a multi-million development and operational £P+L, and lead and developed of a team of 9, incl. 4 Product Managers. Highlights include:
-- Led the development of a new, interactive CreditExpert prototype in a series of innovation hack-days, which later became the goal for the product roadmap
-- Improved the retention and CRM strategy by leveraging all customer MI to build a ‘black box’ modeling tool that could identify the most valuable customers and how to target them.
-
-For full details of marketing and eCommerce roles held between Sept'09 and July '13, head to <a href="https://uk.linkedin.com/in/annalaisegibbons">LinkedIn</a>
+For full details of product, marketing and eCommerce roles held between Sept'09 and Sept '15, head to <a href="https://uk.linkedin.com/in/annalaisegibbons">LinkedIn</a>
 
 ## Interests
+I'm currently teaching myself how to knit, and wrapping my head around learning to play the piano, alongside learning new programming languages.
 
-In play, as in work, I love to learn new things. I'm currently teaching myself how to knit, and wrapping my head around learning the piano and reading music, alongside learning code syntax.
-
-When not filling my brain with new things, I'll likely be found:
+When not cramming more things into my brain, you'll most likely find me:
 - Planning my next scuba diving adventure; I grew up by the sea and I'm passionate about marine conservation.
-- Getting out into the countryside for hiking, camping, or both of these things.
-- Reading anything I can get my hands on, with special interests in psychology, history and fantasy genres.
-- Playing exclusively medieval-focused RPGs on Xbox 360 (still a newb, playing catch up on consoles)
-- Making banana and walnut cake, which is frequently requested by colleagues. One cannot deny the demands of the people, after all.
+- Getting out into the countryside for hiking, camping, or both of these things
+- Finding some quiet time in yoga
+- Gaming with friends
