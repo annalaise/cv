@@ -24,7 +24,7 @@ I value spending less time in meetings, more time understanding users and buildi
 
 #### I know about the beauty of data
 
-As an <a href="https://www.16personalities.com/intj-personality">INTJ</a> my approach to the world is always analytical. "Does this work? How could it be better?" is an independent process I apply to all things, at all times. It's the prepotent of an insatiable curiosity about new concepts, and an organised, logical approach to understanding them.
+My approach to the world is always analytical. "Does this work? How could it be better?" is an independent process I apply to all things, at all times. It's the prepotent of an insatiable curiosity about new concepts, and an organised, logical approach to understanding them.
 
 I'm a data nerd at heart and from previous marketing and product roles, I've used the following tools to help prioritise stories and build understanding of users:  
 
