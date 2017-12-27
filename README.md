@@ -2,9 +2,9 @@
 
 I'm a former product owner with a passion for writing beautiful, clean code and creating awesome user experiences.
 
-I spent my early career in marketing roles, before switching to ecommerce and eventually product. I've prototyped, launched and managed digital products at the likes of Experian, M&S.com and Nando's. I'm now moving into software development so I can combine my need to build things, with the understanding of the (hopefully brilliant) impact they will have for users.
+I spent my early career in marketing roles, before switching to ecommerce and eventually product. I've prototyped, launched and managed digital products at the likes of Experian, M&S.com and Nando's. I'm now moving into software development so I can combine my need to build things, with the understanding of the impact they will have for users.
 
-After I graduate Maker's, I'd like to work in an environment that puts TDD at its core and stretches me to grow as a developer. Support for mentoring and pairing is key, as is a company with ethical values that wants to make grin-inducing experiences for users.
+After I graduate Maker's, I'd like to work in an environment that puts TDD at its core and stretches me to grow as a developer. Support for mentoring and pairing is key, as is a company with ethical values that wants to make inclusive, awesome experiences for users.
 
 ## Skills
 
