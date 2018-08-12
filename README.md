@@ -1,6 +1,6 @@
 ## Annalaise Gibbons
 
-I'm a former product owner with a passion for writing beautiful, clean code and creating awesome user experiences.
+I'm a product owner and full stack developer with a passion for writing beautiful, clean code and creating awesome user experiences.
 
 I spent my early career in marketing roles, before switching to ecommerce and eventually product. I've prototyped, launched and managed digital products at the likes of Experian, M&S.com and Nando's. I'm now moving into software development so I can combine my need to build things, with the understanding of the impact they will have for users.
 
@@ -37,15 +37,6 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 - App user feedback tools including appFigures and iOS / Google Store APIs
 - Integration of the all above into Slack, because BOTS 🤖😍
 
-## Projects
-
-|Project | Link | Description | Technologies Used |
-|--------|--------|--------|--------|
-| Project Title | [View on Github](https://github.com/annalaise)| Description goes here | Technologies go here |
-| Project Title | [View on Github](https://github.com/annalaise)| Description goes here | Technologies go here |
-| Project Title | [View on Github](https://github.com/annalaise)| Description goes here | Technologies go here |
-
-
 ## Education
 
 #### Makers Academy (June to September 2017)
@@ -62,8 +53,6 @@ I'm a data nerd at heart and from previous marketing and product roles, I've use
 - Two Masters equivalent (Level 7) professional qualifications in Marketing;
 1. Chartered Institute of Marketing (Post Gradate Diploma)
 2. Institute of Direct Marketing (Post Graduate Diploma in Direct and Interactive Marketing)
-
-- First Aid at Work (valid 'til Mar '18)
 
 ## Experience
 
